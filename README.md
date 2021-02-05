@@ -12,8 +12,8 @@ And if I haven’t stressed this enough, I (we) take no responsibility for the u
 
 References
 ----------
-https://gist.github.com/liuw/2407154 (Nasty Hack)
-https://www.jujens.eu/posts/en/2018/Jun/02/python-timeout-function/ (Code Style Inspiration)
+  - https://gist.github.com/liuw/2407154 (Nasty Hack)
+  - https://www.jujens.eu/posts/en/2018/Jun/02/python-timeout-function/ (Code Style Inspiration)
 
 
 Example Usage
