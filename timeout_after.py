@@ -3,7 +3,7 @@ import threading, time, ctypes
 
 '''
 -----------------------------------------------------------------------
-Copyright (c) 2021 Dr. Luke, LIU Wei, Brett Husar, and others
+Copyright (c) 2021 Levi M. Luke, LIU Wei, Brett Husar, and others
 -----------------------------------------------------------------------
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files
